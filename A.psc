@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo aut_veh
 	
 	Escribir "Autononia del vehiculo:"
 	Leer var_autonomiavint
